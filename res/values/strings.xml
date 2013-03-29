@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SaberJelly Theme</string>
+    <string name="theme_name">SaberJelly</string>
+    <string name="style_appearance_name">SaberJelly</string>
+    <string name="author">sparksco</string>
+    <string name="copyright">Paul Beeler</string>
+</resources>
